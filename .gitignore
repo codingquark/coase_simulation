@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.direnv/
+.envrc
+.python-version
+.claude/
+*.swp
+*.swo
+*~
+.DS_Store
